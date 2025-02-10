@@ -1,0 +1,5 @@
+# netlify.toml (root directory)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
